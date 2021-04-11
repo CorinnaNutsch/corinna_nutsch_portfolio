@@ -95,10 +95,10 @@ analytics:
 # Site Author
 author:
   name             : "Corinna Nutsch"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/_pictures/Profilfoto.jpeg"
   bio              : "Business Analyst"
   location         : "Hamburg, Germany"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
