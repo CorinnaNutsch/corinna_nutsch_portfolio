@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Corinna Nutsch"
   avatar           : "/_pictures/Profilfoto.jpeg?raw=true"
-  bio              : "Business Analyst <br> <br> Data Scientist"
+  bio              : "Business Analyst <br> Data Scientist"
   location         : "Hamburg, Germany"
   email            : 
   links:
@@ -118,6 +118,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/corinna-nutsch-89955b155/"
+
 
 # Site Footer
 footer:
@@ -140,10 +144,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "LinedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/corinna-nutsch-89955b155/"
-
+    
 
 # Reading Files
 include:
