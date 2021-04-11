@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Corinna Nutsch"
-  avatar           : "/_pictures/Profilfoto.jpeg"
+  avatar           : "/_pictures/Profilfoto.jpeg?raw=true"
   bio              : "Business Analyst <br> <br> Data Scientist"
   location         : "Hamburg, Germany"
   email            : 
